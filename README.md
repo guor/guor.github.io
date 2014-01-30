@@ -1,4 +1,4 @@
-guor.github.com
+guor.github.io
 ===============
 
-my first repository
+ok, the first repository
